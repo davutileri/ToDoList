@@ -1,0 +1,6 @@
+C:\Users\davut.ileri\source\repos\ToDoList\ToDoListCore\bin\Debug\ToDoListCore.dll
+C:\Users\davut.ileri\source\repos\ToDoList\ToDoListCore\bin\Debug\ToDoListCore.pdb
+C:\Users\davut.ileri\source\repos\ToDoList\ToDoListCore\obj\Debug\ToDoListCore.csprojAssemblyReference.cache
+C:\Users\davut.ileri\source\repos\ToDoList\ToDoListCore\obj\Debug\ToDoListCore.csproj.CoreCompileInputs.cache
+C:\Users\davut.ileri\source\repos\ToDoList\ToDoListCore\obj\Debug\ToDoListCore.dll
+C:\Users\davut.ileri\source\repos\ToDoList\ToDoListCore\obj\Debug\ToDoListCore.pdb

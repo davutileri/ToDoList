@@ -1,0 +1,26 @@
+﻿<Window x:Class="ToDoListApp.NewItemAdding"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ToDoListApp"
+        mc:Ignorable="d"
+        Title="New Item Adding Panel" Height="450" Width="387.182">
+    <Grid>
+        <Label Content="Item Name :" HorizontalAlignment="Left" Margin="37,83,0,0" VerticalAlignment="Top"/>
+        <Label Content="Description :" HorizontalAlignment="Left" Margin="36,114,0,0" VerticalAlignment="Top"/>
+        <Label Content="Dead Line :" HorizontalAlignment="Left" Margin="43,176,0,0" VerticalAlignment="Top"/>
+        <Label Content="Status :" HorizontalAlignment="Left" Margin="64,145,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="txtItemName" HorizontalAlignment="Left" Height="23" Margin="117,87,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="txtDescription" HorizontalAlignment="Left" Height="23" Margin="117,117,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120"/>
+        <ComboBox x:Name="cmbStatus" HorizontalAlignment="Left" Margin="117,149,0,0" VerticalAlignment="Top" Width="120" Text="Created" SelectedValuePath="Content">
+            <ComboBoxItem >Created</ComboBoxItem>
+            <ComboBoxItem >Completed</ComboBoxItem>
+            <ComboBoxItem >NotCompleted</ComboBoxItem>
+            <ComboBoxItem >Expired</ComboBoxItem>
+        </ComboBox>
+        <Button x:Name="btnItemAdding" Content="Add new item" HorizontalAlignment="Left" Margin="117,236,0,0" VerticalAlignment="Top" Width="120" Height="25" Click="BtnItemAdding_Click"/>
+        <DatePicker x:Name="dtpDeadLine" HorizontalAlignment="Left" Margin="117,178,0,0" VerticalAlignment="Top" Width="120"/>
+
+    </Grid>
+</Window>

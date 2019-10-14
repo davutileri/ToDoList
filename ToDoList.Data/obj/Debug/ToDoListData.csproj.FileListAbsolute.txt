@@ -1,0 +1,14 @@
+C:\Users\davut.ileri\source\repos\ToDoList\ToDoList.Data\obj\Debug\ToDoListData.csprojAssemblyReference.cache
+C:\Users\davut.ileri\source\repos\ToDoList\ToDoList.Data\obj\Debug\ToDoListData.csproj.CoreCompileInputs.cache
+C:\Users\davut.ileri\source\repos\ToDoList\ToDoList.Data\bin\Debug\ToDoListData.dll.config
+C:\Users\davut.ileri\source\repos\ToDoList\ToDoList.Data\bin\Debug\ToDoListData.dll
+C:\Users\davut.ileri\source\repos\ToDoList\ToDoList.Data\bin\Debug\ToDoListData.pdb
+C:\Users\davut.ileri\source\repos\ToDoList\ToDoList.Data\bin\Debug\EntityFramework.dll
+C:\Users\davut.ileri\source\repos\ToDoList\ToDoList.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\davut.ileri\source\repos\ToDoList\ToDoList.Data\bin\Debug\ToDoListCore.dll
+C:\Users\davut.ileri\source\repos\ToDoList\ToDoList.Data\bin\Debug\ToDoListCore.pdb
+C:\Users\davut.ileri\source\repos\ToDoList\ToDoList.Data\bin\Debug\EntityFramework.xml
+C:\Users\davut.ileri\source\repos\ToDoList\ToDoList.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\davut.ileri\source\repos\ToDoList\ToDoList.Data\obj\Debug\ToDoListData.csproj.CopyComplete
+C:\Users\davut.ileri\source\repos\ToDoList\ToDoList.Data\obj\Debug\ToDoListData.dll
+C:\Users\davut.ileri\source\repos\ToDoList\ToDoList.Data\obj\Debug\ToDoListData.pdb

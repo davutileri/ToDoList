@@ -1,0 +1,18 @@
+﻿<Window x:Class="ToDoListApp.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ToDoListApp"
+        mc:Ignorable="d"
+        Title="To Do List" Height="422.352" Width="389.09">
+    <Grid Margin="0,0,-8,6" Height="413" VerticalAlignment="Bottom">
+        <Button Content="Register" HorizontalAlignment="Left" Margin="145,216,0,0" VerticalAlignment="Top" Width="109" Click="BtnRegister"/>
+        <Button Content="Log in" HorizontalAlignment="Left" Margin="145,174,0,0" VerticalAlignment="Top" Width="109" RenderTransformOrigin="0.842,0.449" Click="BtnLogIn"/>
+        <TextBox x:Name="txtUserName" HorizontalAlignment="Left" Height="23" Margin="145,101,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="109" />
+        <Label Content="User Name :" HorizontalAlignment="Left" Margin="67,101,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.514,-0.747" Height="23"/>
+        <Label Content="Password :" HorizontalAlignment="Left" Margin="76,129,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.514,-0.747" Height="23"/>
+        <PasswordBox x:Name="txtPassword" HorizontalAlignment="Left" Margin="145,129,0,0" VerticalAlignment="Top" Width="109" Height="23"/>
+
+    </Grid>
+</Window>

@@ -1,0 +1,15 @@
+﻿<Window x:Class="ToDoListApp.NewListAdding"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ToDoListApp"
+        mc:Ignorable="d"
+        Title="New List Adding Panel" Height="345.127" Width="310.911">
+    <Grid x:Name="txtListName">
+        <Label Content="List Name :" HorizontalAlignment="Left" Margin="45,87,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="txtNewList" HorizontalAlignment="Left" Height="23" Margin="119,90,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <Button x:Name="btnNewList" Content="Button" HorizontalAlignment="Left" Margin="119,137,0,0" VerticalAlignment="Top" Width="120" Height="28" Click="BtnNewList_Click"/>
+
+    </Grid>
+</Window>
